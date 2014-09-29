@@ -52,6 +52,6 @@
 - [張峻瑋(wei)](http://weihi.github.io/about-me/) ::簡介
 - [陳志源(kouynzvf)](http://kouynzvf.github.io/about-me/) :: 簡介
 - [賴志維(ab3896423)](http://ab3896423.github.io/about-me/)::))
-
+- [黃于庭(s62030t)](http://s62030t.github.io/about-me/):: 簡介
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
